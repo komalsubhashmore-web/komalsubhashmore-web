@@ -1,5 +1,5 @@
 
-# Hi, I'm Komal More 👋
+# Hi, I'm Komal More :)
 
 **Agentic AI Engineer · IEEE-published LLM-safety researcher · M.S. in Artificial Intelligence**
 
