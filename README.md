@@ -5,7 +5,7 @@
 
 I build autonomous LLM agents in production, and I research how language models fail. Building and breaking teach me the same lesson: an agent is only as good as how well it holds up.
 
-- 🔭 Agentic AI Engineer at Cupule Technology — voice and workflow-automation agents (OpenAI, Claude, tool calling, Python)
+- 🔭 Agentic AI Engineer at Cupule Technology -voice and workflow-automation agents (OpenAI, Claude, tool calling, Python)
 - 📄 Co-author of two IEEE ICAIC 2026 papers on LLM jailbreaks and RAG prompt-injection
 - 🧪 Interested in agentic systems, LLM evaluation, and red-teaming
 - 🎓 M.S. in Artificial Intelligence, Dakota State University
