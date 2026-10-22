@@ -12,10 +12,9 @@ I build autonomous LLM agents in production, and I research how language models 
 
 ### Published research
 
-- **Mid-Generation Jailbreaks in Open-Source LLMs Using a Pause-and-Edit Attack** 
-
-  IEEE ICAIC 2026 · [IEEE Xplore](https://ieeexplore.ieee.org/document/11395884)
-- **Zero-Shot Tokenizer Transfer for Targeted Attacks on Retrieval-Augmented Generation** 
+- **Mid-Generation Jailbreaks in Open-Source LLMs Using a Pause-and-Edit Attack** -
+   IEEE ICAIC 2026 · [IEEE Xplore](https://ieeexplore.ieee.org/document/11395884)
+- **Zero-Shot Tokenizer Transfer for Targeted Attacks on Retrieval-Augmented Generation** -
    IEEE ICAIC 2026 · [IEEE Xplore](https://ieeexplore.ieee.org/document/11395696)
 
 ### Selected projects
